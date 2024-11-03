@@ -1,4 +1,4 @@
-# How to start the project
+# How to inicialice the project
 
 1-Download the files of the project
 2-Open the terminal and type 'npm install'
